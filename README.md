@@ -1,3 +1,3 @@
-# Page-for-turbo-pages
+# Parser-for-turbo-pages
 Парсер для турбо-страниц
 Моя выпускная квалификационная работа
